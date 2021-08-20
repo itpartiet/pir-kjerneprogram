@@ -1,3 +1,9 @@
+GAMMEL POLITIKK
+
+Les det oppdaterte politiske programmet til Piratpartiet i følgende kodebrønn:
+
+https://github.com/piratpartiet/pir-politisk-program
+
 # Arkivert kodebrønn
 Dette er kjerneprogrammet slik det var frem til vedtak om omstrukturering på landsmøtet april 2019.
 Kjerneprogrammet er ikke lenger en del av Piratpartiets program. Det vises til Politisk program som vedtatt på samme landsmøte.
